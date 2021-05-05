@@ -117,7 +117,7 @@ Follow The Steps Below!
 
 ```bash
 > git clone https://github.com/mfadhil33-fadhil112
-> cd bot-wea-v3
+> cd fadhil112
 > npm install
 > npm i imgbb-uploader
 > npm i got
