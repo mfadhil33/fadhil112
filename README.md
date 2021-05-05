@@ -83,7 +83,7 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/4NK3R-PRODUCT1ON/bot-wea-v3
+> git clone https://github.com/https://github.com/mfadhil33/fadhil112  
 > cd bot-wea-v3
 > bash install.sh
 ```
