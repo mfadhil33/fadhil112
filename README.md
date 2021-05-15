@@ -84,7 +84,7 @@ Follow The Steps Below!
 (after that tap on permission)
 > apt install git -y
 > git clone https://github.com/https://github.com/mfadhil33/fadhil112  
-> cd bot-wea-v3
+> cd fadhil112
 > bash install.sh
 ```
 
